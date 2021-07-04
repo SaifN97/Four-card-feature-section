@@ -45,6 +45,11 @@ p {
   font-weight: 400;
 }
 
+.features .cards {
+  width: 23rem;
+  margin: 0 auto;
+}
+
 .features .cards .card {
   position: relative;
   height: 15em;
